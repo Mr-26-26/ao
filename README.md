@@ -237,14 +237,14 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
                     <strong> Jeremias 5:16</strong>
                     <table class="preco" aria-label="Tabela de preços">
                         <div>
-                            <tr><th>Tipo</th><th>Descrição</th><th>Investimento (AOA)</th></tr>
+                            <h3> Tipo            Descrição           Investimento (AOA)</h3>
                         </div>
                         <ul>
                         <li>Consulta espiritual (30 min) - Orientação e leitura - Consultar</li>
-                            <tr><td>Aconselhamento (60 min)</td><td>Sessão individual</td><td>Consultar</td></tr>
-                            <tr><td>Tradução simples (por página)</td><td>PT↔EN/FR</td><td>Consultar</td></tr>
-                            <tr><td>Serviço íntimo (privado)</td><td>Área privada — consultar</td><td>Consultar</td></tr>
-                            <tr><td>Cultos (Presencial)</td><td>Terça e Quinta</td><td>Consultar </td></tr>
+                            <li>Aconselhamento (60 min) - Sessão individual - Consultar </li>
+                            <li>Tradução simples (por página) - PT↔EN/FR - Consultar </li>
+                            <li>Serviço privado - Área privada - Consultar </li>
+                            <li> Cultos (Presencial) - Terça e Quinta - Consultar </li>
                         </ul>
                          <button type="button" class="btn" onclick="openWhatsAppQuick()">Consultas Gerais</button>
                     </table>
