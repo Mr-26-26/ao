@@ -238,11 +238,11 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
                     <table class="preco" aria-label="Tabela de preços">
                         <ol>
                          <h3> <strong> Tipo           -                  Descrição     -       Investimento</strong> (AOA)</h3>
-                        <li>Consulta espiritual (30 min)   Orientação e leitura           Consultar</li>
-                            <li>Aconselhamento (60 min)     Sessão individual             Consultar </li>
-                            <li>Tradução simples (por página)   PT↔EN/FR                  Consultar </li>
-                            <li>Serviço privado                Área privada               Consultar </li>
-                            <li> Cultos (Presencial)           Terça e Quinta             Consultar </li>
+                        <li>Consulta espiritual (30 min) -  Orientação e leitura      -     Consultar</li>
+                            <li>Aconselhamento (60 min)   -  Sessão individual        -     Consultar </li>
+                            <li>Tradução simples (por página) -  PT↔EN/FR           -       Consultar </li>
+                            <li>Serviço privado       -         Área privada        -       Consultar </li>
+                            <li> Cultos (Presencial)     -      Terça e Quinta      -       Consultar </li>
                         </ol>
                          <button type="button" class="btn" onclick="openWhatsAppQuick()">Consultas Gerais</button>
                     </table>
