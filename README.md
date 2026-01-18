@@ -333,7 +333,8 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
             </div>
         </div>
     </footer>
-
+</body>
+</html>
     <script>
         // Google Translate widget
         function googleTranslateElementInit() {
@@ -348,5 +349,3 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
     <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <script src="javaScript.js"></script>
-</body>
-</html>
