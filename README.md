@@ -329,12 +329,11 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
     </main>
      <footer role="contentinfo">
         <div class="container" style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap">
-            <div>© <strong>Mr Steve Consultoria</strong> — Consultoria espiritual • Traduções • Aconselhamento</div>
+            <div>© <strong>Mr Steve Consultoria</strong> — Consultoria espiritual • Traduções • Aconselhamento
             </div>
         </div>
     </footer>
-</body>
-</html>
+
     <script>
         // Google Translate widget
         function googleTranslateElementInit() {
@@ -349,3 +348,5 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
     <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <script src="javaScript.js"></script>
+    </body>
+</html>
