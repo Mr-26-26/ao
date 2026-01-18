@@ -228,7 +228,7 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
 
         <!-- Nova seção: Preçário (separada) -->
         <section class="card" id="preco" style="margin-top:18px">
-            <h2>Areas de Parceria</h2>
+            <h2>Áreas de Parceria</h2>
             <p class="muted">As areas de atuações podem ser vistos a seguir, se o que procuras não estiver listado abaixo você pode solicitar clicando em <strong>CONSULTAS GERAIS.</strong> </p>
 
             <div id="precoArea" style="margin-top:8px">
@@ -236,16 +236,16 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
                 <div id="precoTable">
                     <strong> Jeremias 5:16</strong>
                     <table class="preco" aria-label="Tabela de preços">
-                        <thead>
+                        <div>
                             <tr><th>Tipo</th><th>Descrição</th><th>Investimento (AOA)</th></tr>
-                        </thead>
-                        <tbody>
+                        </div>
+                        <ul>
                             <tr><td>Consulta espiritual (30 min)</td><td>Orientação e leitura</td><td>Consultar</td></tr>
                             <tr><td>Aconselhamento (60 min)</td><td>Sessão individual</td><td>Consultar</td></tr>
                             <tr><td>Tradução simples (por página)</td><td>PT↔EN/FR</td><td>Consultar</td></tr>
                             <tr><td>Serviço íntimo (privado)</td><td>Área privada — consultar</td><td>Consultar</td></tr>
                             <tr><td>Cultos (Presencial)</td><td>Terça e Quinta</td><td>Consultar </td></tr>
-                        </tbody>
+                        </ul>
                          <button type="button" class="btn" onclick="openWhatsAppQuick()">Consultas Gerais</button>
                     </table>
                 </div>
