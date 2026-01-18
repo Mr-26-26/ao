@@ -100,8 +100,8 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
             </section>
 
             <aside class="card">
-                <h2 id="intimo">Serviços Íntimos (Área Privada)</h2>
-                <p class="muted">Serviços íntimos são oferecidos apenas a maiores de 18 anos (ou maioridade legal aplicável). Todas as interações respeitam consentimento, limites e leis locais. Não são permitidos serviços ilegais, exploração ou conteúdo sexual explícito neste website.</p>
+                <h2 id="intimo">Área Privada</h2>
+                <p class="muted">Serviços Privados são oferecidos apenas a maiores de 18 anos (ou maioridade legal aplicável). Todas as interações respeitam consentimento, limites e leis locais. Não são permitidos serviços ilegais, exploração ou conteúdo sexual explícito neste website.</p>
                 <div class="age-consent" style="margin-top:10px;">
                     <strong>Aviso:</strong> Confirmo que sou maior de idade e concordo com os termos.
                 </div>
