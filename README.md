@@ -240,7 +240,7 @@ No entanto, as Igrejas Antigas consideravam os livros apócrifos importantes nos
                             <tr><th>Tipo</th><th>Descrição</th><th>Investimento (AOA)</th></tr>
                         </div>
                         <ul>
-                            <tr><td>Consulta espiritual (30 min)</td><td>Orientação e leitura</td><td>Consultar</td></tr>
+                        <li>Consulta espiritual (30 min) - Orientação e leitura - Consultar</li>
                             <tr><td>Aconselhamento (60 min)</td><td>Sessão individual</td><td>Consultar</td></tr>
                             <tr><td>Tradução simples (por página)</td><td>PT↔EN/FR</td><td>Consultar</td></tr>
                             <tr><td>Serviço íntimo (privado)</td><td>Área privada — consultar</td><td>Consultar</td></tr>
